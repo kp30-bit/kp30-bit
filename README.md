@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)]
 <h1 align="center">Hi 👋, I'm Kamal Pratik</h1>
 <h3 align="center">A am a Developer by profession, an Open Source Enthusiast, an Avid learner and A hustler striving to be the best at what I do.</h3>
 
