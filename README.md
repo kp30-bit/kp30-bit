@@ -1,11 +1,8 @@
+[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)]
 <h1 align="center">Hi 👋, I'm Kamal Pratik</h1>
 <h3 align="center">A am a Developer by profession, an Open Source Enthusiast, an Avid learner and A hustler striving to be the best at what I do.</h3>
 
-<img align="right" alt="Programmer" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kp30-bit&label=Profile%20views&color=0e75b6&style=flat" alt="kp30-bit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kp30-bit" alt="kp30-bit" /></a> </p>
 
 - 📫 How to reach me **kamalpratik144@gmail.com**
 
