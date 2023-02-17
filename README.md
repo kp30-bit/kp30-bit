@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Pratik</h1>
-<h3 align="center">I am a Developer by profession, an Open Source Enthusiast, an Avid learner and A hustler striving to be the best at what I do.</h3>
+<h3 align="center">I am a Developer by profession, an Open Source Enthusiast, an Avid learner and a hustler striving to be the best at what I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kp30-bit&label=Profile%20views&color=0e75b6&style=flat" alt="kp30-bit" /> </p>
 
